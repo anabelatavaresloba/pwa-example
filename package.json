@@ -18,7 +18,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
   },
-  "homepage": "https://anabelatavaresloba.github.io",
+  "homepage": "https://anabelatavaresloba.github.io/pwa-example/",
   "keywords": [],
   "author": "",
   "license": "ISC"
